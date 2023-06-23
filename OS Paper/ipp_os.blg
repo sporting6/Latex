@@ -1,0 +1,15 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'ipp_os.blg'
+[100] biber:340> INFO - === Mon May 29, 2023, 10:29:19
+[128] Biber.pm:419> INFO - Reading 'ipp_os.bcf'
+[278] Biber.pm:979> INFO - Found 1 citekeys in bib section 0
+[296] Biber.pm:4419> INFO - Processing section 0
+[312] Biber.pm:4610> INFO - Looking for bibtex file 'ipp_os.bib' for section 0
+[314] bibtex.pm:1713> INFO - LaTeX decoding ...
+[317] bibtex.pm:1519> INFO - Found BibTeX data source 'ipp_os.bib'
+[370] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[370] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[370] Biber.pm:4239> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[370] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[373] bbl.pm:660> INFO - Writing 'ipp_os.bbl' with encoding 'UTF-8'
+[373] bbl.pm:763> INFO - Output to ipp_os.bbl
